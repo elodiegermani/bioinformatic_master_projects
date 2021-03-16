@@ -4,4 +4,4 @@ This directory contains a notebook presenting a practical session we created to 
 
 All instructions are available in the notebook. 
 
-Participants to this project : Nino Damat, Elodie Germani and Kévin Chateau. 
+**Participants to this project** : Nino Damat, Elodie Germani and Kévin Chateau. 
